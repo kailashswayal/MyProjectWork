@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="ReaddatafromXml">
+    <classes>
+      <class name="testNGFlag.Flag2"/>
+      <class name="testNGFlag.Flag1"/>
+      <class name="testNGFlag.Flag4"/>
+      <class name="testNGFlag.Flag3"/>
+      <class name="testNGFlag.Flag6"/>
+      <class name="testNGFlag.Flag5"/>
+      <class name="testNGFlag.Flag7"/>
+    </classes>
+  </test> <!-- ReaddatafromXml -->
+</suite> <!-- Suite -->
